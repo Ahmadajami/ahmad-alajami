@@ -9,7 +9,8 @@
 	<link rel="icon" href={favicon} />
 	<title>Ahmad alajami - Front-End Developer</title>
 </svelte:head>
+<h1 class="text-center text-wrap">Ahmad alajami Portfolio</h1>
 
-<main class="container mx-auto overflow-hidden pt-12">
+<main>
 	{@render children?.()}
 </main>
