@@ -52,11 +52,13 @@
 						<Accordion.Content>
 							<p>I specialize in modern JavaScript frameworks, including:</p>
 							<ul class="space-y-3">
+								<li>Flutter</li>
 								<li>SvelteKit</li>
 								<li>Vue.js</li>
 								<li>React</li>
 								<li>Nuxt.js</li>
 								<li>Next.js</li>
+								
 							</ul>
 						</Accordion.Content>
 					</Accordion.Item>
